@@ -1,0 +1,20 @@
+key1=value
+key2=value number two
+key3=value number 3
+
+
+=bad value no key
+
+key4=after a few lines
+
+key5=this is the fifth key
+
+key6
+key7=
+
+keystone_1=pipeline
+keystone=is a crappy beer.
+
+keystone_2=does not taste like a frying pan.
+
+keystone8=nothing between 3 and 7
